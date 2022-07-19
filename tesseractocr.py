@@ -1,3 +1,5 @@
+#code is used to perform OCR on Tesseract OCR app
+
 import os
 import json
 import pytesseract

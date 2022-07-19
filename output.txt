@@ -1,2 +1,0 @@
-start
-['annotation_file.ipynb', 'converted_pdf2img.zip', 'extablishing_relationTextualData.ipynb', 'extracting-pdf-data.ipynb', 'ocr_tasks.json', 'output.png', 'output.txt', 'run-file.ipynb', 'tesseractocr.py', 'training_model_euroCorp.ipynb', 'workspace.code-workspace']
